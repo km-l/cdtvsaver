@@ -6,3 +6,5 @@ CDTVSaver allows you to:
 - set the delay time for the screensaver animation to turn on, 
 - display information about the current settings,
 - deactivate the screensaver.
+
+Requirements: amigaos >= 2.0.4
